@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Guess Me App</string>
+    <string name="str_guessing">I am Guessing of a number between 1-100</string>
+    <string name="str_can_you">Can you Guess It?</string>
+    <string name="str_give_it_a_try">Try your luck here</string>
+    <string name="str_guess">Guess</string>
+</resources>
